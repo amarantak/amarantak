@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on REST APIs
 - 🌱 I’m currently studying at [Mindroom Innovation](https://www.mindroom.edu.au/) in QLD, Australia
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about ...
 - 📫 How to reach me: amarantakruger@gmail.com
 - 😄 Call me: Amy
 - ⚡ Fun fact: I started travelling the world in 2018 whithout imagining that I would be living in Australia in 2022!
