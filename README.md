@@ -6,7 +6,7 @@
 - 🌱 I’m currently studying at [Mindroom Innovation](https://www.mindroom.edu.au/) in QLD, Australia
 - 📫 How to reach me: amarantakruger@gmail.com
 - 😄 Call me: Amy
-- ⚡ Fun fact: I started travelling the world in 2018 whithout imagining that I would be living in Australia in 2022!
+- ⚡ Fun fact: I started travelling the world in 2018 whithout imagining that in the meantime I would become a Web Developer!
 
 
 
