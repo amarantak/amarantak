@@ -2,7 +2,7 @@
 
 ✨I'm <b>Amaranta Kruger</b>!✨
 
-- 🔭 I’m currently working on become a Full Stack Developer
+- 🔭 I’m currently working on becoming a Full Stack Developer
 - 🌱 I’m currently studying at [Mindroom Innovation](https://www.mindroom.edu.au/) in QLD, Australia
 - 📫 How to reach me: amarantakruger@gmail.com
 - 😄 Call me: Amy
